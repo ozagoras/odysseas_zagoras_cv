@@ -1,6 +1,6 @@
 services:
   jekyll:
-    container_name: odysseas_zagoras_cv
+    container_name: online-cv
     image: jekyll/builder:4.0
     command: jekyll serve --watch --force_polling --verbose --livereload --host 0.0.0.0
     volumes:
