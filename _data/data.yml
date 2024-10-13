@@ -61,6 +61,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
+      //TODO
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
@@ -74,6 +75,7 @@ education:
         university: Aristotle University of Thessaloniki
         time: 2016 - 2022
         details: |
+          //TODO
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -100,6 +102,7 @@ experiences:
         time: 2020 - 2021
         company: InfoScope Hellas
         details: |
+          //TODO
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -115,6 +118,7 @@ experiences:
         time: 2022 - present
         company: Deloitte, DACC Greece
         details: |
+          //TODO
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -134,6 +138,7 @@ certifications:
           credentialurl: www.google.com
           credentialname: Google
           details: |
+            //TODO
             Details about cert. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
             Nullam eget orci purus. Nullam ultrices neque nibh.
@@ -167,6 +172,7 @@ certifications:
 projects:
     title: Projects
     intro: >
+      //TODO
       You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
